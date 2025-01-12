@@ -1,57 +1,49 @@
 # Hi there 👋 Welcome to the Jungle!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anggamys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anggamys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anggamys&layout=compact&theme=dracula&hide_border=true" height="150" />
 </div>
 
 ---
 
-## 🔭 I’m currently working on...
-[Project Name or Description]  
-_Describe what you’re working on, what technologies you’re using, or anything cool you’re building!_
-
-## 🌱 I’m currently learning...
-- [Technology/Concept 1]
-- [Technology/Concept 2]
-- [Technology/Concept 3]
-
-## 👯 I’m looking to collaborate on...
-- [Project or area you're interested in collaborating]
-- Open-source projects
-- [Other collaborative opportunities]
-
-## 🤔 I’m looking for help with...
-- [Specific challenge you're facing or looking for feedback on]
-
----
-
-## 📫 How to reach me:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]  
-- GitHub: [Your GitHub Profile URL]
-
----
-
-## ⚡ Fun facts:
-- [Something fun or quirky about you]
-- [Another interesting or lighthearted fact]
-
----
-
-## Technologies & Tools I Love:
 <div align="center">
-  <img src="https://img.shields.io/badge/Tech1-blue?style=flat&logo=logo1&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech2-orange?style=flat&logo=logo2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech3-green?style=flat&logo=logo3&logoColor=white" />
-  <!-- Add more tech badges here -->
+  <h3>Technologies I Work With</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-black?style=flat&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Colab-f8f8f8?style=flat&logo=googlecolab&logoColor=black" />
+    <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white" />
+  </p>
 </div>
 
 ---
 
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anggamys&locale=en&layout=compact&langs_count=5&theme=dracula)](https://github.com/anggamys)
+## ⚡ Fun Facts
+<div align="center">
+  🤖 Robotics Engineer | 💻 Backend Developer | 📚 Lifelong Learner | 🚀 Open to Work
+</div>
 
 ---
+
+<div align="center">
+  <h3>Contact Me</h3>
+  <a href="mailto:anggayunus139@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-brightgreen" /></a>
+  <a href="https://www.linkedin.com/in/anggamys"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
+  <a href="https://github.com/anggamys"><img src="https://img.shields.io/badge/GitHub-Profile-black" /></a>
+</div>

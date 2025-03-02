@@ -36,7 +36,7 @@
 ## 📬 Get in Touch  
 <div align="center">
   <a href="mailto:anggayunus139@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-brightgreen" /></a>
-  <a href="https://www.linkedin.com/in/anggamys"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
+  <a href="https://www.linkedin.com/in/moh-angga"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
   <a href="https://github.com/anggamys"><img src="https://img.shields.io/badge/GitHub-Profile-black" /></a>
 </div>  
 

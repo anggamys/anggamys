@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&theme=dracula&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anggamys&layout=compact&theme=dracula&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=anggamys&theme=dracula&border_radius=5&short_numbers=true&mode=weekly" height="150" />
 </div>  
 
 ## 🚀 About Me  

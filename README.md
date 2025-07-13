@@ -6,13 +6,16 @@ Welcome to my digital playground — where robotics, robust backend architecture
 
 ## 🏆 About Me
 
-I’m a **Robotics Engineer** and **Backend Developer** dedicated to turning ideas into impactful products. My mission? **Invent, build, and ship technology** that’s reliable, scalable, and truly useful.
+I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mission to bring intelligent, reliable technology into everyday life. I thrive where complexity meets creativity—turning bold ideas into production-ready systems that scale.
 
-- 🤖 **Robotics & AI Specialist:** Hands-on with ROS, Computer Vision, and embedded systems
-- ⚙️ **Backend Problem-Solver:** Architecting scalable APIs, distributed systems, and fault-tolerant infrastructure
-- 💡 **Continuous Innovator:** Always learning and pushing boundaries in deep tech
-- 🛠️ **Rapid Prototyper:** Fast, clean, and obsessed with maintainability
-- 🌏 **Collaborative Spirit:** Open to new ideas, partnerships, and hacking side-projects
+- 🤖 **Robotics Visionary:** Experienced in building smart machines with ROS, computer vision, and real-time embedded logic.
+- ⚙️ **Backend Systems Expert:** Architecting distributed, resilient APIs and infrastructures that never crack under pressure.
+- 🧠 **AI & Deep Tech Explorer:** Always learning, prototyping, and pushing the boundaries of what’s possible in automation, perception, and data.
+- 🛠️ **Fast Builder:** Obsessed with clean code, rapid prototyping, and bulletproof architecture.
+- 🌐 **Connector & Collaborator:** I believe real impact happens through teamwork, open-source, and sharing knowledge with others.
+- 🚀 **Startup Spirit:** Agile, entrepreneurial, and ready to jump into ambitious projects with high growth and high challenge.
+
+> **My mantra:** _“Build tech that matters. Ship fast, iterate faster. Make it reliable, and make it yours.”_
 
 > 🗣️ _“If you’re building the next big thing in robotics, AI, or backend engineering, let’s connect!”_
 

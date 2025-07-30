@@ -15,8 +15,6 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 - 🌐 **Connector & Collaborator:** I believe real impact happens through teamwork, open-source, and sharing knowledge with others.
 - 🚀 **Startup Spirit:** Agile, entrepreneurial, and ready to jump into ambitious projects with high growth and high challenge.
 
-> **My mantra:** _“Build tech that matters. Ship fast, iterate faster. Make it reliable, and make it yours.”_
-
 > 🗣️ _“If you’re building the next big thing in robotics, AI, or backend engineering, let’s connect!”_
 
 <!--
@@ -48,7 +46,6 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anggamys&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 
 </div>
-
 
 ## 🧰 My Toolbox
 

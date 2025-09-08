@@ -51,6 +51,15 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 
 <div align="center">
 
+<!-- Languages -->
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+
 <!-- Frameworks & Frontend -->
 
 <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
@@ -64,15 +73,6 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white" />
 
-<!-- Languages -->
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-
 <!-- Databases -->
 
 <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white" />
@@ -84,7 +84,6 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 
@@ -108,6 +107,9 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
   </a>
   <a href="https://github.com/anggamys" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-anggamys-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/anggamys" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-anggamys-FF5722?style=flat&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/147ZFvx65xY7-ipnzibUbVU02NILkypxM/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-View%20My%20CV-blue?style=flat&logo=readme&logoColor=white" />

@@ -83,9 +83,10 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 <!-- DevOps & Tools -->
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Podman-FF0000?style=flat&logo=podman&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 
 <!-- Other Tools -->
 
@@ -104,9 +105,6 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
   </a>
   <a href="https://www.linkedin.com/in/moh-angga" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Moh.Angga-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/anggamys" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-anggamys-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://gitlab.com/anggamys" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-anggamys-FF5722?style=flat&logo=gitlab&logoColor=white" />

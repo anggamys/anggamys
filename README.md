@@ -2,6 +2,8 @@
 
 ### 🚀 Robotics & AI Engineer | Backend Systems Architect | Builder for the Future
 
+<div align="justify">
+
 Welcome to my digital playground — where robotics, robust backend architectures, and cutting-edge AI come alive to solve real-world challenges.
 
 ## 🏆 About Me
@@ -16,6 +18,8 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 - 🚀 **Startup Spirit:** Agile, entrepreneurial, and ready to jump into ambitious projects with high growth and high challenge.
 
 > 🗣️ _“If you’re building the next big thing in robotics, AI, or backend engineering, let’s connect!”_
+
+</div>
 
 <!--
 ## 🚩 Featured Projects
@@ -37,13 +41,49 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" />
+</picture>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamys&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+<!-- Top Languages -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamys&layout=compact&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamys&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamys&layout=compact&hide_border=true" height="150" alt="Top Languages" />
+</picture>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggamys&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+<!-- Streak Stats -->
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=anggamys&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=anggamys&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggamys&hide_border=true" height="150" alt="GitHub Streak" />
+</picture>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anggamys&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+<!-- Activity Graph -->
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=anggamys&theme=tokyo-night&hide_border=true"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=anggamys&theme=github-light&hide_border=true"
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anggamys&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</picture>
 
 </div>
 
@@ -121,6 +161,12 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
   <img src="https://komarev.com/ghpvc/?username=anggamys&label=Profile%20Views&color=blue&style=flat" />
 </div>
 
+<br/>
+
+<div align="justify">
+
 > ☕ Outside of code, I love exploring coffee shops—enjoying coffee, chill vibes, and meeting new people.
 
 **🔥 Ready to build what’s next? Let’s create something extraordinary.**
+
+</div>

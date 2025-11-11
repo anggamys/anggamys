@@ -91,49 +91,57 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 
 <div align="center">
 
-<!-- Languages -->
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
+<!-- language -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />  
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />  
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />  
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 
-<!-- Frameworks & Frontend -->
+<!-- frontend -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />  
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />  
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+<!-- backend -->
+<img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white" />  
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 
-<!-- Backend & Infra -->
-
-<img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white" />
-
-<!-- Databases -->
-
-<img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white" />
+<!-- database -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />  
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />  
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
 
-<!-- DevOps & Tools -->
+<!-- devops -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />  
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />  
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Podman-FF0000?style=flat&logo=podman&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<!-- infrastructure -->
+<img src="https://img.shields.io/badge/Koyeb-101010?style=flat&logo=koyeb&logoColor=white" />  
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />  
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
 
-<!-- Other Tools -->
+<!-- iot environment -->
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/ROS-000000?style=flat&logo=ros&logoColor=white" />
+<!-- robotics environment -->
+<img src="https://img.shields.io/badge/ROS2%20Humble-22314E?style=flat&logo=ros&logoColor=white" />  
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+
+<!-- productivity & environment -->
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />  
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />  
+<img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />  
+<img src="https://img.shields.io/badge/Zsh-FAFAFA?style=flat&logo=gnubash&logoColor=black" />
+
+</div>
 
 </div>
 

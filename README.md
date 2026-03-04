@@ -21,72 +21,6 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 
 </div>
 
-<!--
-## 🚩 Featured Projects
-
-- **Autonomous Drone Navigation (YOLOv8 + ROS2 + MAVROS):**
-  Real-time object detection & path planning powered by behavior trees
-  `Python • ROS2 • MAVROS • YOLOv8 • Ubuntu`
-
-- **Face Recognition Attendance System:**
-  FastAPI + PyTorch backend for lightning-fast attendance via face matching
-  `FastAPI • facenet-pytorch • PostgreSQL • REST API`
-
-- **Payroll System for Boarding School:**
-  Java desktop app with role-based access, PDF exports, and clean OOP
-  `Java • Swing • MySQL • MVC`
--->
-
-## 📊 GitHub in Action
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&theme=tokyonight&hide_border=true"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" />
-</picture>
-
-<!-- Top Languages -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamys&layout=compact&theme=tokyonight&hide_border=true"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamys&layout=compact&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamys&layout=compact&hide_border=true" height="150" alt="Top Languages" />
-</picture>
-
-<!-- Streak Stats -->
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=anggamys&theme=tokyonight&hide_border=true"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=anggamys&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggamys&hide_border=true" height="150" alt="GitHub Streak" />
-</picture>
-
-<!-- Activity Graph -->
-<picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=anggamys&theme=tokyo-night&hide_border=true"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=anggamys&theme=github-light&hide_border=true"
-    media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anggamys&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</picture>
-
-</div>
-
 ## 🧰 My Toolbox
 
 <div align="center">
@@ -108,6 +42,9 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 <!-- backend -->
 <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white" />  
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+
+<!-- Machine Learning -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C20?style=flat&logo=pytorch&logoColor=white" />
 
 <!-- database -->
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />  
@@ -167,6 +104,7 @@ I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mis
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anggamys&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/stars/anggamys?style=flat&label=GitHub%20Stars&color=yellow&logo=github" />
 </div>
 
 <br/>

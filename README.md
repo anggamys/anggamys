@@ -1,23 +1,27 @@
 # 👋 Hi, I'm Angga
 
-### 🚀 Robotics & AI Engineer | Backend Systems Architect | Builder for the Future
+### Software Engineer | Applied Research | Robotics
 
 <div align="justify">
 
-Welcome to my digital playground — where robotics, robust backend architectures, and cutting-edge AI come alive to solve real-world challenges.
+Welcome to my digital playground — a place where I build systems, explore research ideas, and turn them into practical solutions.
 
 ## 🏆 About Me
 
-I’m a relentless **Robotics & AI Engineer** and **Backend Architect** on a mission to bring intelligent, reliable technology into everyday life. I thrive where complexity meets creativity—turning bold ideas into production-ready systems that scale.
+I am a **Software Engineer** focused on building reliable systems and solving real-world problems through practical implementation. My work combines software engineering with applied research, turning ideas into solutions that can be used and tested in real environments.
 
-- 🤖 **Robotics Visionary:** Experienced in building smart machines with ROS, computer vision, and real-time embedded logic.
-- ⚙️ **Backend Systems Expert:** Architecting distributed, resilient APIs and infrastructures that never crack under pressure.
-- 🧠 **AI & Deep Tech Explorer:** Always learning, prototyping, and pushing the boundaries of what’s possible in automation, perception, and data.
-- 🛠️ **Fast Builder:** Obsessed with clean code, rapid prototyping, and bulletproof architecture.
-- 🌐 **Connector & Collaborator:** I believe real impact happens through teamwork, open-source, and sharing knowledge with others.
-- 🚀 **Startup Spirit:** Agile, entrepreneurial, and ready to jump into ambitious projects with high growth and high challenge.
+🔬 Recently, I have been involved in **research-driven projects**, contributing to model development, experimentation, and system implementation, as well as supporting scientific publications and research workflows.
 
-> 🗣️ _“If you’re building the next big thing in robotics, AI, or backend engineering, let’s connect!”_
+🤖 I also have a background in **robotics**, working on autonomous systems that involve system integration, real-time processing, and field testing as part of research team projects.
+
+## ⚙️ Skills
+
+- 💻 **Software Engineering** – Building and maintaining reliable and efficient software systems
+- 🔬 **Applied Research** – Turning research ideas into practical implementations
+- 🔗 **System Integration & Automation** – Integrating components and automating workflows
+- 🧠 **Problem Solving & Technical Analysis** – Analyzing problems and developing effective solutions
+
+> 🤝 _Open to collaboration on software systems, applied research, and autonomous technologies._
 
 </div>
 

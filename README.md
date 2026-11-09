@@ -8,48 +8,45 @@
 
 Welcome to my digital playground — a place where I build systems, explore research ideas, and turn them into practical solutions.
 
-</div>
-
-<!-- --- -->
-
-<!-- ## 📑 Table of Contents
-
-- [🏆 About Me](#-about-me)
-- [🔭 Current Focus](#-current-focus)
-- [⚙️ Skills](#️-skills)
-- [🧰 My Toolbox](#-my-toolbox)
-- [🚀 Featured Projects](#-featured-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [🤝 Let's Connect & Collaborate](#-lets-connect--collaborate)
-
---- -->
-
-<div align="justify">
-
 ## 🏆 About Me
 
-I am a **Software Engineer** focused on building reliable systems and solving real-world problems through practical implementation. My work combines software engineering with applied research, turning ideas into solutions that can be used and tested in real environments.
+I am a **Software Engineer** focused on building reliable systems and solving real-world problems through practical implementation. My work combines software engineering with applied research, validated through testing in real environments.
 
 🔬 Recently, I have been involved in **research-driven projects**, contributing to model development, experimentation, and system implementation, as well as supporting scientific publications and research workflows.
 
 🤖 I also have a background in **robotics**, working on autonomous systems that involve system integration, real-time processing, and field testing as part of research team projects.
 
-</div>
+🎓 Currently studying **Informatics** at UPN "Veteran" Jawa Timur with a **3.90 GPA**, leading a robotics research team, and building systems that compete at the national level.
 
-<!-- --- -->
+</div>
 
 ## 🔭 Current Focus
 
 <div align="justify">
 
 - 🧠 Exploring **Machine Learning** and **Computer Vision** applications
-- 🔬 Contributing to **research-driven projects** and scientific publications
-- 🤖 Building **autonomous systems** with ROS2 and real-time processing
-- 📄 Writing technical documentation and research papers with **LaTeX**
+- 📦 Improving code quality with **automated testing** and **CI/CD pipelines**
+- 🚀 Deepening **Cloud Infrastructure** and **DevOps practices**
 
 </div>
 
-<!-- --- -->
+<div align="justify">
+
+## 🏆 Achievements
+
+- 🥈 **2nd Place — Autonomous Surface Vessel Prototype Development (National Level)** — Kontes Kapal Indonesia, Balai Pengembangan Talenta Nasional, Kemendikbudristek · Nov 2024
+- 🥈 **2nd Place — Web Design Programming Competition (National Level)** — Expo Saintek 2023, Universitas Muhammadiyah Sidoarjo · Jan 2023
+
+## 💼 Experience Highlights
+
+- 🤖 **Research Team Lead** — Komunitas Robotika UPN "Veteran" Jawa Timur · Jan 2025–Present
+  Built an **unmanned vessel monitoring system** integrating multiple sensors for real-time performance tracking, through the full cycle of design, testing, and optimization.
+- 🗳️ **Head of Website Development Division** — Himpunan Mahasiswa Informatika · Oct–Dec 2024
+  Led a team of 3 to deliver the **PEMIRA online voting website** (Laravel + Nuxt.js), supporting **200 users with 100% uptime** on a tuned VPS + MySQL stack.
+- 📚 **Website Developer Staff** — Himpunan Mahasiswa Informatika · May–Jul 2024
+  Developed a **Learning Management System** for PIBITI events, improving learning experience and information accessibility for participants.
+
+</div>
 
 ## ⚙️ Skills
 
@@ -60,8 +57,6 @@ I am a **Software Engineer** focused on building reliable systems and solving re
 - 📄 **LaTeX & Academic Writing** – Preparing scientific documents, papers, and research publications
 
 > 🤝 _Open to collaboration on software systems, applied research, and autonomous technologies._
-
-<!-- --- -->
 
 ## 🧰 My Toolbox
 
@@ -134,40 +129,18 @@ I am a **Software Engineer** focused on building reliable systems and solving re
 
 </div>
 
-<!-- --- -->
-
-<!-- ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project                 | Description                                                        | Tech Stack                      |
-| ----------------------- | ------------------------------------------------------------------ | ------------------------------- |
-| 🔬 **Research Project** | Research-driven project with model development and experimentation | Python, PyTorch, LaTeX          |
-| 🤖 **Robotics System**  | Autonomous system with real-time processing and field testing      | ROS2, C++, OpenCV               |
-| 🌐 **Web Application**  | Full-stack web application with modern architecture                | Next.js, TypeScript, PostgreSQL |
+| Project                          | Description                                                                 | Tech Stack                     |
+| -------------------------------- | --------------------------------------------------------------------------- | ------------------------------ |
+| 🛳️ **Autonomous Surface Vessel** | National 2nd-place winning prototype with multi-sensor real-time monitoring | ROS2, C++, Sensors             |
+| 🗳️ **PEMIRA Voting Website**     | Online voting platform serving 200 users with 100% uptime                   | Laravel, Nuxt.js, MySQL, VPS   |
+| 🐦 **Axifiveth**                 | Twitter-like interactive platform with login and Firestore data storage     | Next.js, TailwindCSS, Firebase |
+| 🛒 **Aximart**                   | E-commerce platform supporting student products and local MSMEs             | Next.js, MongoDB, TailwindCSS  |
 
 </div>
-
-> 💡 _Replace the table above with your actual projects!_ -->
-
-<!-- --- -->
-
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anggamys&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anggamys&theme=radical&hide_border=false" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamys&layout=compact&theme=radical&hide_border=false" width="48%" />
-
-</div> -->
-
-<!-- --- -->
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -196,8 +169,6 @@ I am a **Software Engineer** focused on building reliable systems and solving re
   <img src="https://komarev.com/ghpvc/?username=anggamys&label=Profile%20Views&color=blue&style=flat" />
   <img src="https://img.shields.io/github/stars/anggamys?style=flat&label=GitHub%20Stars&color=yellow&logo=github" />
 </div>
-
-<!-- --- -->
 
 <div align="justify">
 
